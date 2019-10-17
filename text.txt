@@ -1,0 +1,1 @@
+	This is a program that I really developed on my own to just practicalise what I have learnt on my own. This would not just be a stand alone web page, but I will also convert it to an app and would have some plugins such as social sharing, barcode reader, admob for ads, and some more or maybe not.
